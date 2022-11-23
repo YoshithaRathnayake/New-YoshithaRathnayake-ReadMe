@@ -1,4 +1,4 @@
-# <div align="center"><a href="www.yoshitha.tk">***YOSHITHA RATHNAYAKE***</a></div>
+# <div align="center"><a href="www.yoshitha.tk">**YOSHITHA RATHNAYAKE**</a></div>
 <div align="center"><b>DEV</b>ELOPER | <b>DESIGN</b>ER | <b>PROGRAMM</b>ER | <b>EDIT</b>OR</div>
 
 #
@@ -217,7 +217,7 @@ const info = {
 
 #
 <!-- Copyright -->
-<div align="center"><b>© 2022 YOSHITHA RATHNAYAKE</b></div>
+<div align="center"><b>© 2022 <a href="www.yoshitha.tk">YOSHITHA RATHNAYAKE</a></b></div>
 
 ###
 <!-- Footer Links -->
