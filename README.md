@@ -16,13 +16,7 @@
 # ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
 
 <!-- GitHub Username -->
-<a href="https://github.com/YoshithaRathnayake"><b><i>@YoshithaRathnayake</i></b><a>
- 
-<!-- GitHub Skyline -->
-<a href="https://skyline.github.com/yoshitharathnayake/2022"><b><i>Github Skyline</i></b><a>
-  
-<!-- Personal Portfolio Website -->
-<a href="https://www.yoshitha.tk"><b><i>WWW.YOSHITHA.TK</i></b><a>
+<div align="center"><a href="https://github.com/YoshithaRathnayake"><b><i>@YoshithaRathnayake</i></b><a> | <a href="https://skyline.github.com/yoshitharathnayake/2022"><b><i>SKYLINE</i></b><a> | <a href="https://www.yoshitha.tk"><b><i>WWW.YOSHITHA.TK</i></b><a></div>
  
  
 <!-- First Paragraph -->
