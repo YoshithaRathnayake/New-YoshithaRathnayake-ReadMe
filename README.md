@@ -1,15 +1,7 @@
-<!-- Auto Typing Name -->
-<p align="center">
+# <div align="center"><a href="www.yoshitha.tk">***YOSHITHA RATHNAYAKE***</a></div>
+<div align="center"><b>DEV</b>ELOPER | <b>DESIGN</b>ER | <b>PROGRAMM</b>ER | <b>EDIT</b>OR
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=YOSHITHA+RATHNAYAKE&font=Fira%100Code&size=50&color=00ff62&center=true&width=580&height=70">
-
-</p>
-
-
-<!-- Main Heading --> 
-# <div align="center"><a href="https://www.Yoshitha.tk">Yᴏsʜɪᴛʜᴀ Rᴀᴛʜɴᴀʏᴀᴋᴇ</a></div>
-
- 
+#
 <!-- Image --> 
 # <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake"></div>
 
