@@ -124,7 +124,7 @@ const info = {
 </p>
 <p align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YoshithaRathnayake&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
+<a href="https://github.com/YoshithaRathnayake/github-readme-activity-graph"><img alt="Yoshitha's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YoshithaRathnayake&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
 </p>
  
