@@ -22,26 +22,17 @@
 <!-- Number of GitHub Followers -->
 # <div align="center">![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)</div>
  
- 
-<!-- First Paragraph -->
-> Hi, I am ***Yoshitha Rathnayake***.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
-
-> This is ***My Personal Portfolio***.
-  
-> My Personal Portfolio Website is published at[<b><i> WWW.YOSHITHA.TK</i></b>](https://www.yoshitha.tk)  
 
 <!-- Information from JavaScript Code -->
-#
 ```javascript
 const info = {
-    fullName: 'Yoshitha Rathnayake',
-    nickname: 'Yoshitha',
-    age: 14,
-    gender: 'Male',
-    occupation: 'Student',
-    grade: '9D',
-    interestedIn: ['Developing', 'Designing', 'Programming', 'Editing', 'Photographing', 'Hacking', 'Contributing'],
-    currentlyLearning: 'Everything',
+    Name: "Yoshitha Rathnayake",
+    Age: "14 years",
+    Location: "Kandy, Sri Lanka",
+    Gender: "Male",
+    Education: "St. Anthony's College, Kandy",
+    Grade: "9D",
+    InterestedIn: ['Developing', 'Designing', 'Programming', 'Editing', 'Photographing', 'Hacking', 'Contributing'],
 };
 ```
  
