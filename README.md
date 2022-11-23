@@ -88,7 +88,7 @@ const info = {
 ## Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,atom,androidstudio,arduino,flutter,ps,ae,pr,au,ai,xd,figma,blender,docker,linux,stackoverflow,wordpress,powershell" height="100px"/>
+    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,atom,androidstudio,arduino,flutter,ps,ae,pr,au,ai,xd,figma,blender,docker,linux,wordpress,powershell" height="100px"/>
   </a>
 </p>
 
