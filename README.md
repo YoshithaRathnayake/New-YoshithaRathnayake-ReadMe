@@ -41,35 +41,35 @@ const info = {
 # About Me  ![1f600](https://user-images.githubusercontent.com/97069900/154191851-6317b49b-1068-4f96-abb7-7935f2d7c466.png)
 
 
-> I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake.</i></b></a>
+> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px"> I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake</i></b></a>
 
-> I am a ***Student, Developer, Designer, Programmer, Editor, Photographer, Videographer, Software Developer, Web Developer, Game Developer, Video Editor, Photo Editor, UI and UX Designer, Graphic Designer, Open Source Contributor, Hacker and a Badminton Player***.
+> I am a **Student**, **Dev**eloper, **Design**er, **Programm**er, **Edit**or, **Photo**grapher, **Open Source** Contributor, **Hack**er and a **Badminton** and **Cricket** Player
 
 > I am ***14*** years old.
 
-> I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy</i></b></a> 🏫.
+> I am studing in <a href="https://www.sack.edu.lk/#gsc.tab=0"><b><i>St. Anthony's College Kandy</i></b></a> 🏫
 
-> I am studying in ***Grade 9D*** in my school 🎓.
+> I am studying in ***Grade 9D*** in my school 🎓
  
-> I am a <a href="https://developers.google.com/"><b><i>Developer of Google 👨‍💻</i></b></a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake</i></b></a>).
+> I am a <a href="https://developers.google.com/"><b><i>Developer of Google 👨‍💻</i></b></a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake</i></b></a>)
  
-> I am a member of <a href="https://medium.com/"><b><i>Medium</i></b></a> (<a href="https://yoshitharathnayake.medium.com/"><b><i> yoshitharathnayake.medium.com </i></b></a>)
+> I am a ***Software Engineer*** 👨‍💻 at <a href="https://sefglobal.org">***Sustainable Education Foundation***</a>
+  
+> I am a member 🖥 of <a href="https://acf.sack.edu.lk"><b><i>Antonian Computer Fraternity</i></b></a>
 
-> My favourite subject is ***ICT*** 💻.
+> My favourite subject is ***ICT*** 💻
 
-> I am observing ***Buddhism*** ☸ as my religion.
+> I am observing ***Buddhism*** ☸ as my religion
 
-> I live in ***Kandy, Central Province, Sri Lanka***. 
+> I live in ***Kandy, Central Province, Sri Lanka***
 
-> I am playing ***Badminton*** 🏸 and ***Cricket*** 🏏 in my school as my favourite sport.
+> I am playing ***Badminton*** 🏸 and ***Cricket*** 🏏 in my school as my favourite sports
 
-> I am a member of <a href="https://github.com/acf-sack"><b><i>Antonian Computer Fraternity (ACF)</i></b></a> in our school and also a memeber of <a href="https://sefglobal.org/"><b><i>Sustainable Education Foundation (SEF).</i></b></a>
-
-> I am a ***Lamborghini*** car lover.
+> I am a ***Lamborghini*** Car lover
  
-> I hope to be a ***Computer Engineer*** 💻 in the future.
+> I hope to be a ***Computer Engineer*** 💻 in the future
 
-> I am proud to say that I am a ***Sri Lankan*** 🇱🇰 and ***Antonian*** 🦅 ❤️💙🖤.
+> I am proud to say that I am a ***Sri Lankan*** and ***Antonian*** 🦅 ❤️💙🖤
 
 
  
