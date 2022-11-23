@@ -12,15 +12,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=++++Hi,++I'm++YOSHITHA++RATHNAYAKE;I'm+a+Student;I'm+a+Developer;I'm+a+Designer;I'm+a+Programmer;I'm+an+Editor;I'm+a+Photographer;And+I'm+a+Videographer)](https://git.io/typing-svg)
 </div>
 
-<!-- Number of GitHub Followers -->
-# ![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)
 
-<!-- GitHub Username -->
+#
+<!-- GitHub Username, Skyline and Website -->
 <div align="center"><a href="https://github.com/YoshithaRathnayake"><b><i>@YoshithaRathnayake</i></b><a> | <a href="https://skyline.github.com/yoshitharathnayake/2022"><b><i>SKYLINE</i></b><a> | <a href="https://www.yoshitha.tk"><b><i>WWW.YOSHITHA.TK</i></b><a></div>
+
+
+#
+<!-- Number of GitHub Followers -->
+# <div align="center">![GitHub followers](https://img.shields.io/github/followers/yoshitharathnayake?logo=GitHub&style=for-the-badge)</div>
  
  
 <!-- First Paragraph -->
-# 
 > Hi, I am ***Yoshitha Rathnayake***.   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 > This is ***My Personal Portfolio***.
