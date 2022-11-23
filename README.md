@@ -38,7 +38,7 @@ const info = {
  
 #
 <!-- About Me -->
-# About Me  ![1f600](https://user-images.githubusercontent.com/97069900/154191851-6317b49b-1068-4f96-abb7-7935f2d7c466.png)
+# About Me  <img src="https://img.icons8.com/fluency/60/info.png">
 
 
 > Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px"> I am ***Yoshitha Rathnayake***
@@ -96,7 +96,7 @@ const info = {
  
 <!-- Contribution Details -->
 #
-# Contribution Details 📊
+# Contribution Details <img src="https://img.icons8.com/fluency/60/analytics.png">
 <!-- Most used languages -->
 <p align="center">
  <b><i>MOST USED LANGUAGES</i></b>
@@ -173,7 +173,7 @@ const info = {
  
 <!-- Archievements -->
 #
-# Archivements <img src="https://img.icons8.com/emoji/344/star-emoji.png" height="80px">
+# Archivements <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/80/external-achievements-recruitment-agency-flaticons-flat-flat-icons-2.png">
 
 <!-- Badges -->
 <p align="center">
