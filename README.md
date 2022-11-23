@@ -173,7 +173,7 @@ const info = {
  
 <!-- Archievements -->
 #
-# Archivements <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/80/external-achievements-recruitment-agency-flaticons-flat-flat-icons-2.png">
+# Archivements <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/70/external-achievements-recruitment-agency-flaticons-flat-flat-icons-2.png">
 
 <!-- Badges -->
 <p align="center">
@@ -186,20 +186,14 @@ const info = {
  
 <!-- Contact Me -->
 #
-# Contact Me  ![1f4de](https://user-images.githubusercontent.com/97069900/154191604-ac56f694-0ae9-41bd-bb9e-3d533823dc25.png)
+# Contact Me  <img src="https://img.icons8.com/color/60/contact-card.png">
 
-  
-> Full Name :- <b><i>R.M.Y.S.B.Rathnayake</i></b>
-  
-> Short Name :- <b><i>Yoshitha Rathnayake</i></b>
   
 > Phone Number :- <a href="tel:+94 72 825 9003"><b><i>+94 72 825 9003</i></b></a>
   
 > Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
   
-> My Personal Portfolio Website :- [<b><i>WWW.YOSHITHA.TK</i></b>](https://www.yoshitha.tk)   
- 
-> Google Developer :- <a href="https://developers.google.com/u/YoshithaRathnayake"><b><i>g.dev/YoshithaRathnayake</i></b></a>
+> Website :- [<b><i>WWW.YOSHITHA.TK</i></b>](https://www.yoshitha.tk)
   
 
  
