@@ -213,6 +213,17 @@ const info = {
   ![VisitorCount](https://profile-counter.glitch.me/{YoshithaRathnayake}/count.svg)
   
 </div>
+  
+
+#
+<!-- Copyright -->
+<div align="center"><b>© 2022 YOSHITHA RATHNAYAKE</b></div>
+
+###
+<!-- Footer Links -->
+<div align="center">
+<a href="#yoshitha-rathnayake"><b>HOME</b></a> | <a href="#about-me--"><b>ABOUT</b></a> | <a href="#languages-and-tools---"><b>SKILLS</b></a> | <a href="#contribution-details-"><b>CONTRIBUTION</b></a> | <a href="#archivements-"><b>ACHIEVEMENTS</b></a> | <a href="#contact-me--"><b>CONTACT</b></a>
+</div>    
 
 
 <img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=YOSHITHA_RATHNAYAKE&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
