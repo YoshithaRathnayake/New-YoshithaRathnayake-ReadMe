@@ -32,7 +32,7 @@ const info = {
     Gender: "Male",
     Education: "St. Anthony's College, Kandy",
     Grade: "9D",
-    InterestedIn: ['Developing', 'Designing', 'Programming', 'Editing', 'Photographing', 'Hacking', 'Contributing'],
+    InterestedIn: ["Developing", "Designing", "Programming", "Editing", "Photographing", "Hacking", "Contributing"],
 };
 ```
  
