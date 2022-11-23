@@ -41,7 +41,7 @@ const info = {
 # About Me  ![1f600](https://user-images.githubusercontent.com/97069900/154191851-6317b49b-1068-4f96-abb7-7935f2d7c466.png)
 
 
-> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px"> I am <a href="https://www.Yoshitha.tk"><b><i>Yoshitha Rathnayake</i></b></a>
+> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px"> I am ***Yoshitha Rathnayake***
 
 > I am a **Student**, **Dev**eloper, **Design**er, **Programm**er, **Edit**or, **Photo**grapher, **Open Source** Contributor, **Hack**er and a **Badminton** and **Cricket** Player
 
@@ -70,6 +70,8 @@ const info = {
 > I hope to be a ***Computer Engineer*** 💻 in the future
 
 > I am proud to say that I am a ***Sri Lankan*** and ***Antonian*** 🦅 ❤️💙🖤
+  
+> Wanna know me better? Use my website, published at ***www.yoshitha.tk***
 
 
  
