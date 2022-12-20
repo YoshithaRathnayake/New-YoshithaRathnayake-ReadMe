@@ -2,11 +2,15 @@
 # <div align="center"><a href="www.yoshitha.tk" title="#YOSHITHA_RATHNAYAKE">**YOSHITHA RATHNAYAKE**</a></div>
 
 <!-- Slogan -->
-<div align="center" title="Who am I?"><b>DEV</b>ELOPER | <b>DESIGN</b>ER | <b>PROGRAMM</b>ER | <b>EDIT</b>OR</div>
+<div align="center">
+  
+  <span title="DEVELOPING"><b>DEV</b>ELOPER</span> | <span title="DESIGNING"><b>DESIGN</b>ER</span> | <span title="PROGRAMMING"><b>PROGRAMM</b>ER</span> | <span title="EDITING"><b>EDIT</b>OR</span>
+  
+</div>
 
 #
 <!-- Image --> 
-# <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | Maho, Kurunegala"></div>
+# <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | 13 Years Birthday"></div>
 
 
 <!-- Auto Typing About -->
@@ -39,6 +43,7 @@ const info = {
     Education: "St. Anthony's College, Kandy",
     Grade: "9D",
     Email: "YoshithaRathnayake@yoshitha.tk",
+    Hobies: ["Gardening", "Listen to musics", "Collecting stamps"],
     InterestedIn: ["Developing", "Designing", "Programming", "Editing", "Photographing", "Hacking", "Contributing"],
 };
 ```
@@ -62,7 +67,7 @@ const info = {
  
 > I am a <a href="https://developers.google.com/"><b><i title="Google Developer">Developer of Google 👨‍💻</i></b></a> (<a href="https://developers.google.com/profile/u/YoshithaRathnayake"><b><i> g.dev/YoshithaRathnayake</i></b></a>)
  
-> I am a ***Software Engineer*** 👨‍💻 at <a href="https://sefglobal.org" title="SEF">***Sustainable Education Foundation***</a>
+> Volunteering as a <a href="https://sef.discourse.group/u/YoshithaRathnayake" title="SEF Hive">***Software Engineer***</a> 👨‍💻 at <a href="https://sefglobal.org" title="SEF">***Sustainable Education Foundation***</a>
   
 > I am a member 🖥 of <a href="https://acf.sack.edu.lk"><b><i title="ACF">Antonian Computer Fraternity</i></b></a>
 
@@ -74,11 +79,15 @@ const info = {
 
 > I am playing ***Badminton*** 🏸 and ***Cricket*** 🏏 in my school as my favourite sports
 
-> I am a ***Lamborghini*** Car lover
+> I am a ***Lamborghini*** 🏎 Car lover
+  
+> Loving to listen for ***New Beautiful Songs*** 🎶
  
 > I hope to be a ***Computer Engineer*** 💻 in the future
 
 > I am proud to say that I am a ***Sri Lankan*** and ***Antonian*** 🦅 ❤️💙🖤
+  
+> Watch my <a href="https://github.com/YoshithaRathnayake?tab=repositories" title="My Repositories">***Repositories***</a> <span title="56 Repositories">`56`</span> 👨‍💻 here
   
 > Wanna know me better? Use my website, published at <span title="My Personal Portfolio Website">***www.yoshitha.tk***</span>
 
@@ -147,7 +156,15 @@ const info = {
 </p>
 <p align="center" title="Yoshitha Rathnayake's Contribution Graph">
 
+<!--
 <a href="https://github.com/YoshithaRathnayake/github-readme-activity-graph"><img alt="Yoshitha's Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YoshithaRathnayake&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+-->
+  
+<div align="center" title="Yoshitha Rathnayake's Contribution Graph">
+  
+  ![image](https://user-images.githubusercontent.com/97069900/206906655-e76db1a9-999a-4a37-be0c-1cc598f1a943.png)
+  
+</div>
 
 </p>
  
@@ -191,6 +208,8 @@ const info = {
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=CALCULATOR-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=YoshithaRathnayake&theme=dark)](https://github.com/YoshithaRathnayake/YoshithaRathnayake) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+                                                                          
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=DOFA-Peradeniya&theme=dark)](https://github.com/YoshithaRathnayake/DOFA-Peradeniya)                                                                       
 
 </div>
  
@@ -225,7 +244,7 @@ const info = {
 <!-- Follow Me -->
 #
 <div>
-<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" title="WhatsApp"/></a> <a href="https://t.me/joinchat/hP-WbTXCf185YTg1"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" title="Telegram"/></a> <a href="https://github.com/YoshithaRathnayake"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Icon" title="GitHub"/></a> <a href="https://gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab Icon" title="GitLab"/></a> <a href="https://twitter.com/Yoshitha2008"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" title="Twitter"/></a> <a href="https://www.instagram.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" title="Instagram"/></a> <a href="https://www.linkedin.com/in/yoshitha-rathnayake"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Icon" title="LinkedIn"/></a> <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" title="Medium"/></a>
+<a href=" https://chat.whatsapp.com/KRqihLP7J7HEpM2dL6Zwt9" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Icon" title="WhatsApp"/></a> <a href="https://t.me/joinchat/hP-WbTXCf185YTg1"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram Icon" title="Telegram"/></a> <a href="https://github.com/YoshithaRathnayake"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub Icon" title="GitHub"/></a> <a href="https://gitlab.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab Icon" title="GitLab"/></a> <a href="https://twitter.com/Yoshitha2008"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter Icon" title="Twitter"/></a> <a href="https://www.instagram.com/YoshithaRathnayake"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram Icon" title="Instagram"/></a> <a href="https://www.linkedin.com/in/yoshitha-rathnayake"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Icon" title="LinkedIn"/></a> <a href="https://yoshitharathnayake.medium.com"><img src="https://img.icons8.com/ios-filled/48/ffffff/medium--v2.png" alt="Medium Icon" title="Medium"/></a>
 </div>
  
  
@@ -247,7 +266,7 @@ const info = {
 ###
 <!-- Footer Links -->
 <div align="center">
-<a href="#yoshitha-rathnayake" title="Home"><b>HOME</b></a> | <a href="#about-me--" title="About Me"><b>ABOUT</b></a> | <a href="#languages-and-tools---" title="Languages and Tools"><b>SKILLS</b></a> | <a href="#contribution-details-" title="Contribution Details"><b>CONTRIBUTION</b></a> | <a href="#archivements-" title="Achievements"><b>ACHIEVEMENTS</b></a> | <a href="#contact-me--" title="Contact Me"><b>CONTACT</b></a>
+<a href="#" title="Home"><b>HOME</b></a> | <a href="#about-me--" title="About Me"><b>ABOUT</b></a> | <a href="#languages-and-tools---" title="Languages and Tools"><b>SKILLS</b></a> | <a href="#contribution-details-" title="Contribution Details"><b>CONTRIBUTION</b></a> | <a href="#archivements-" title="Achievements"><b>ACHIEVEMENTS</b></a> | <a href="#contact-me--" title="Contact Me"><b>CONTACT</b></a>
 </div>    
 
 
