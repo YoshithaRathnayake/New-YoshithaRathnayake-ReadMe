@@ -10,7 +10,7 @@
 
 #
 <!-- Image --> 
-# <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | 13 Years Birthday"></div>
+# <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake" title="Yoshitha Rathnayake | Maho, Kurunegala"></div>
 
 
 <!-- Auto Typing About -->
